@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "id": "mojx6stl9acmm",
+      "title": "Бендерохук",
+      "category": "SKILL",
+      "description": "ну піздец нах блє",
+      "targetValue": 120,
+      "currentValue": 120,
+      "endDate": "2026-08-20",
+      "status": "COMPLETED",
+      "createdAt": "2026-04-29T10:36:28.137Z"
+    },
+    {
+      "id": "molb5mzzgklpc",
+      "title": "udfsid",
+      "category": "SKILL",
+      "description": "чтоби пригать через коня",
+      "targetValue": 10000,
+      "currentValue": 135,
+      "endDate": "2026-08-27",
+      "status": "ACTIVE",
+      "createdAt": "2026-04-30T09:55:14.735Z"
+    }
+  ],
+  "activities": [
+    {
+      "id": "mola7xvlsxrrc",
+      "projectId": "mojx6stl9acmm",
+      "durationMinutes": 21,
+      "intensity": 4,
+      "metricValue": 23,
+      "date": "2026-04-30",
+      "notes": "sdklfekmdsfkmdsfkldfskldfskldfs",
+      "createdAt": "2026-04-30T09:29:02.529Z"
+    },
+    {
+      "id": "molb6z1jrc193",
+      "projectId": "molb5mzzgklpc",
+      "durationMinutes": 25,
+      "intensity": 2,
+      "metricValue": 1,
+      "date": "2026-04-30",
+      "notes": "я изучил noun в ангшлийском",
+      "createdAt": "2026-04-30T09:56:16.999Z"
+    },
+    {
+      "id": "molb7gjpzrfxq",
+      "projectId": "molb5mzzgklpc",
+      "durationMinutes": 50,
+      "intensity": 3,
+      "metricValue": 134,
+      "date": "2026-04-30",
+      "notes": "шощашощавп",
+      "createdAt": "2026-04-30T09:56:39.685Z"
+    },
+    {
+      "id": "molb8hxcxvcci",
+      "projectId": "mojx6stl9acmm",
+      "durationMinutes": 97,
+      "intensity": 5,
+      "metricValue": 97,
+      "date": "2026-04-30",
+      "notes": "зщллзщвап",
+      "createdAt": "2026-04-30T09:57:28.128Z"
+    }
+  ]
+}
